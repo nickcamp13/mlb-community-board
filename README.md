@@ -1,8 +1,8 @@
-# Web Development Project 1 - _Name of App Here_
+# Web Development Project 1 - _MLB PLAYER SHOWCASE_
 
 Submitted by: **Nicholas Campos**
 
-This web app: **MLB Community Board**
+This web app: **Displays popular Major League Baseball athletes with links to their MLB Player Reference webpage**
 
 Time spent: **3** hours spent in total
 
