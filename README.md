@@ -26,6 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/eUtOGla"  ><a href="//imgur.com/a/eUtOGla">MLB Community Board</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ![Video Walkthrough](https://imgur.com/Uw60Q7k.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
